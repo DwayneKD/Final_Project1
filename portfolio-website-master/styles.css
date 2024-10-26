@@ -1,7 +1,7 @@
 :root {
   --text-color: #1a1c20;
   --link-color: #4a76ee;
-  --background-color: #eeeff1;
+  --background-color: #b8c2e4;
 }
 
 * {
@@ -139,7 +139,7 @@ nav .right a span {
   width: 200px;
   padding: 10px 20px;
   margin: 10px;
-  border: 1.5px solid #d3d3d3;
+  border: 1.5px solid #020202;
   border-radius: 5px;
 }
 
